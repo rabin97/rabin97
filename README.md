@@ -5,9 +5,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 <div align="right">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif"  />
- 
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="300" height="200" />
 </div>
+
 
 ###
 
