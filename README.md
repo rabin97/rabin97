@@ -12,9 +12,10 @@
 <a href="https://auth.geeksforgeeks.org/user/worldrabin947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="worldrabin947" height="30" width="40" /></a>
 </p>
 
-<div align="left">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif"  />
+<div align="right">
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="300" height="200" />
 </div>
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
