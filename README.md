@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
+</div>
 ###
 
 <div align="left">
@@ -58,12 +58,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-</div>
 
 
-<div align="right">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="300" height="200" />
-</div>
+
+
 
 
 
