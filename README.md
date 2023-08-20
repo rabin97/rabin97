@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabin Karmakar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
+ <img align="right" src="https://www.lambdatest.com/resources/images/news24.gif" width="300" height="200" />
 - 🌱 I’m currently learning **Next.js ,WebSocket**
 
 - 📫 How to reach me **rabinkarmakar947@gmail.com**
@@ -12,10 +12,10 @@
 <a href="https://auth.geeksforgeeks.org/user/worldrabin947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="worldrabin947" height="30" width="40" /></a>
 </p>
 
-<div>
-  <div align="right">
-  <img src="https://www.lambdatest.com/resources/images/news24.gif" width="300" height="200" />
-</div>
+
+ 
+ 
+
 
 
 <div align="left">
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-</div>
+
 ###
 
 <div align="left">
