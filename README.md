@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabin Karmakar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A MERN Stack Developer</h3>
  <img align="right" src="https://www.lambdatest.com/resources/images/news24.gif" width="300" height="200" />
-- 🌱 I’m currently learning **Next.js ,WebSocket**
+- 🌱 I’m currently Working As MERN Stack Developer
 
 - 📫 How to reach me **rabinkarmakar947@gmail.com**
 
